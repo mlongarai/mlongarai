@@ -14,5 +14,5 @@ I'm Murilo Longarai, a Professional Productivity Engineer @solarisbank. My focus
 
 ### Get in touch
 
-- On Twitter [@dalekurt](https://www.twitter.com/murilo_longarai)
+- On Twitter [@mlongarai](https://www.twitter.com/murilo_longarai)
 - On [LinkedIn](https://www.linkedin.com/in/murilolongarai/)
