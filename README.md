@@ -9,7 +9,8 @@ I'm Murilo Longarai, a Professional Productivity Engineer @solarisbank. My focus
 ### Current Project/Goals
 
 - Building a High Availability Infrastructure for AWS Directory Services using Terraform
-- Building an Okta Infrastructure as Code using Terraform
+- Building a High Availability Infrastructure for NGINX Reverse-proxy using Terraform
+- Building a Team Roles with Okta Infrastructure as Code using Terraform
 - Studying to take the AWS Certified Solutions Architect
 
 ### Get in touch
