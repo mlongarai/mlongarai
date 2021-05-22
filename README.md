@@ -9,6 +9,7 @@ I'm Murilo Longarai, working as Professional Productivity Engineer @ [Solarisban
 
 ### Current Project/Goals
 
+- Building a High Availability Infrastructure at AWS for Atlassian Stack using Terraform, Packer, Ansible, Python and Shell Script.
 - Building a High Availability Infrastructure for AWS Directory Services using Terraform, Ansible, PowerShell and Shell Script.
 - Building a High Availability Infrastructure for NGINX Reverse-proxy using Terraform, Docker, NGINX and AWS ECS.
 - Building a Team Roles with Okta Infrastructure as Code using Terraform and Shell Script.
