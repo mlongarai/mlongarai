@@ -1,6 +1,6 @@
 ## Hello! I'm Murilo Longarai ✌🏼
 
-I'm Murilo Longarai, working as Cloud Engineer @ [Mercedes-Benz.io](https://www.mercedes-benz.io/). My focus is on the automation of infrastructure with the support of orchestration tools, where I have acquired vast experience with deployment, administration and maintenance of instances in large scale.
+I'm Murilo Longarai, working as Cloud Engineer @ [Mercedes-Benz.io](https://www.mercedes-benz.io/). Focused on infrastructure automation using orchestration tools, IaC and GitOps.
 
 - [ AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/d09c4145-76c4-4c23-bcae-9dcd9dbdd0c3)
 - [ Okta Certified Professional](https://www.youracclaim.com/badges/165a1e7c-8f7a-4fb6-9492-0ef1c8b3f22c)
